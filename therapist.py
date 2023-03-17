@@ -1,5 +1,5 @@
 import gradio as gr
-import openai, config, subprocess, ffmpeg, sys, os
+import openai, subprocess, ffmpeg, sys, os
 #openai.api_key = config.OPENAI_API_KEY
 openai.api_key = "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"
 
